@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aei-tech&label=Profile%20views&color=0e75b6&style=flat" alt="aei-tech" /> </p>
 
-- 📝 I regularly write articles on [blog.aei-te.ch](blog.aei-te.ch)
+- 📝 I regularly write articles on 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
